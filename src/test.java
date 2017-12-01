@@ -5,7 +5,7 @@ public class test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("aaaaaaaaaaaaaa");
 		System.out.println("sssssssss");
-
+		System.out.println("リモート");
 	}
 
 }
